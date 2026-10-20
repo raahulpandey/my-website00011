@@ -1,0 +1,557 @@
+# Question bank (TXT). Sections: [english] [aptitude] [logical] [technical] [core]
+
+[english]
+
+Q: What is a synonym for the word 'DISTANT'?
+A) Far
+B) Removed
+C) Reserved
+D) Present
+ANS: A
+
+Q: Choose the correct sentence.
+A) He don't like tea.
+B) He doesn't like tea.
+C) He not like tea.
+D) He didn't liked tea.
+ANS: B
+
+Q: Antonym of 'EXPAND'?
+A) Grow
+B) Stretch
+C) Contract
+D) Extend
+ANS: C
+
+Q: What is a synonym for 'RAPID'?
+A) Slow
+B) Quick
+C) Calm
+D) Weak
+ANS: B
+
+Q: Antonym of 'ANCIENT'?
+A) Old
+B) Modern
+C) Historic
+D) Aged
+ANS: B
+
+Q: She ___ to school every day.
+A) go
+B) goes
+C) going
+D) gone
+ANS: B
+
+Q: Choose the correct spelling.
+A) Accomodation
+B) Accommodation
+C) Acomodation
+D) Acommodation
+ANS: B
+
+Q: What is a synonym for 'BRAVE'?
+A) Timid
+B) Courageous
+C) Lazy
+D) Rude
+ANS: B
+
+Q: I have lived here ___ 2015.
+A) for
+B) since
+C) from
+D) at
+ANS: B
+
+Q: Antonym of 'GENEROUS'?
+A) Kind
+B) Selfish
+C) Rich
+D) Polite
+ANS: B
+
+Q: The idiom 'break the ice' means:
+A) Start a conversation
+B) Break glass
+C) Feel cold
+D) End a fight
+ANS: A
+
+Q: Passive voice of 'They built a bridge.'
+A) A bridge is built by them.
+B) A bridge was built by them.
+C) A bridge built them.
+D) They were built by a bridge.
+ANS: B
+
+Q: Neither of the boys ___ present.
+A) are
+B) were
+C) is
+D) have
+ANS: C
+
+Q: What is a synonym for 'ABUNDANT'?
+A) Scarce
+B) Plentiful
+C) Tiny
+D) Hidden
+ANS: B
+
+Q: One word for 'study of birds':
+A) Ornithology
+B) Zoology
+C) Ecology
+D) Biology
+ANS: A
+
+Q: Correct the sentence: 'He is senior than me.'
+A) He is senior to me.
+B) He is senior from me.
+C) He is more senior than me.
+D) No correction
+ANS: A
+
+Q: If it rains, we ___ stay home.
+A) will
+B) would have
+C) did
+D) had
+ANS: A
+
+Q: Antonym of 'VICTORY'?
+A) Triumph
+B) Defeat
+C) Success
+D) Win
+ANS: B
+
+[aptitude]
+
+Q: What is 20% of 250?
+A) 40
+B) 50
+C) 60
+D) 25
+ANS: B
+
+Q: A train covers 120 km in 2 hours. Its speed in km/h?
+A) 40
+B) 50
+C) 60
+D) 80
+ANS: C
+
+Q: Average of 10, 20, 30, 40?
+A) 20
+B) 25
+C) 30
+D) 35
+ANS: B
+
+Q: Two numbers are in ratio 3:5 and sum to 64. The larger number is:
+A) 24
+B) 40
+C) 32
+D) 36
+ANS: B
+
+Q: A can finish a job in 10 days, B in 15 days. Together they take:
+A) 5 days
+B) 6 days
+C) 7 days
+D) 8 days
+ANS: B
+
+Q: Cost price 200, selling price 250. Profit %?
+A) 20
+B) 25
+C) 30
+D) 15
+ANS: B
+
+Q: Next in series: 5, 10, 20, 40, ?
+A) 60
+B) 80
+C) 70
+D) 100
+ANS: B
+
+Q: What is 15% of 200?
+A) 20
+B) 25
+C) 30
+D) 35
+ANS: C
+
+Q: Speed 60 km/h, distance 150 km. Time taken?
+A) 2 h
+B) 2.5 h
+C) 3 h
+D) 3.5 h
+ANS: B
+
+Q: Average of 5 numbers is 20. Their sum is:
+A) 80
+B) 100
+C) 120
+D) 90
+ANS: B
+
+Q: If x + 5 = 12, then x =
+A) 5
+B) 6
+C) 7
+D) 8
+ANS: C
+
+Q: If 4 pens cost 20, then 10 pens cost:
+A) 40
+B) 50
+C) 60
+D) 45
+ANS: B
+
+Q: Price after 10% discount on 500:
+A) 450
+B) 400
+C) 490
+D) 440
+ANS: A
+
+Q: Simple interest on 1000 at 10% for 2 years:
+A) 100
+B) 200
+C) 150
+D) 250
+ANS: B
+
+Q: LCM of 4 and 6 is:
+A) 12
+B) 24
+C) 10
+D) 8
+ANS: A
+
+[logical]
+
+Q: Next in series: 2, 4, 8, 16, ?
+A) 24
+B) 32
+C) 30
+D) 20
+ANS: B
+
+Q: A is B's brother; B is C's mother. A is C's ___?
+A) Father
+B) Uncle
+C) Cousin
+D) Grandfather
+ANS: B
+
+Q: If CAT=DBU, then DOG=?
+A) EPH
+B) EPG
+C) DPH
+D) FPH
+ANS: A
+
+Q: Next in series: A, C, E, G, ?
+A) H
+B) I
+C) J
+D) K
+ANS: B
+
+Q: A woman points to a man: 'He is the son of my mother's only son.' He is her:
+A) Son
+B) Nephew
+C) Brother
+D) Cousin
+ANS: B
+
+Q: Facing north, you turn right then right again. You now face:
+A) North
+B) South
+C) East
+D) West
+ANS: B
+
+Q: All cats are animals. Some animals are black. Which follows?
+A) All cats are black
+B) Some cats may be black
+C) No cat is black
+D) All animals are cats
+ANS: B
+
+Q: Next in series: 1, 4, 9, 16, ?
+A) 20
+B) 25
+C) 36
+D) 30
+ANS: B
+
+Q: If A=1, B=2, C=3, the value of CAB is:
+A) 6
+B) 5
+C) 7
+D) 4
+ANS: A
+
+Q: Odd one out:
+A) Apple
+B) Mango
+C) Carrot
+D) Banana
+ANS: C
+
+Q: Next in series: 2, 6, 18, 54, ?
+A) 108
+B) 162
+C) 148
+D) 72
+ANS: B
+
+Q: Angle between clock hands at 3:00:
+A) 60°
+B) 90°
+C) 120°
+D) 45°
+ANS: B
+
+Q: 5 machines make 5 items in 5 min. 100 machines make 100 items in:
+A) 5 min
+B) 100 min
+C) 20 min
+D) 1 min
+ANS: A
+
+Q: Today is Wednesday. The day after tomorrow is:
+A) Thursday
+B) Friday
+C) Saturday
+D) Sunday
+ANS: B
+
+Q: Sales: Jan 20, Feb 30, Mar 50. Total sales:
+A) 90
+B) 100
+C) 110
+D) 80
+ANS: B
+
+[technical]
+
+Q: Time complexity of binary search?
+A) O(n)
+B) O(log n)
+C) O(n log n)
+D) O(1)
+ANS: B
+
+Q: Which SQL clause filters grouped rows?
+A) WHERE
+B) HAVING
+C) ORDER BY
+D) LIMIT
+ANS: B
+
+Q: Which OOP concept is "one interface, many forms"?
+A) Encapsulation
+B) Polymorphism
+C) Abstraction
+D) Coupling
+ANS: B
+
+Q: Which language compiles to bytecode?
+A) C
+B) Java
+C) HTML
+D) SQL
+ANS: B
+
+Q: Which Python type is immutable?
+A) list
+B) dict
+C) tuple
+D) set
+ANS: C
+
+Q: Typical size of int in C (bytes):
+A) 1
+B) 2
+C) 4
+D) 8
+ANS: C
+
+Q: Which SQL command removes a table?
+A) DELETE
+B) DROP
+C) REMOVE
+D) CUT
+ANS: B
+
+Q: Which structure does BFS use?
+A) Stack
+B) Queue
+C) Tree
+D) Heap
+ANS: B
+
+Q: Worst-case time of quicksort:
+A) O(n)
+B) O(n log n)
+C) O(n²)
+D) O(log n)
+ANS: C
+
+Q: Java keyword for inheritance:
+A) implements
+B) extends
+C) inherits
+D) super
+ANS: B
+
+Q: Can a primary key be NULL?
+A) Yes
+B) No
+C) Sometimes
+D) Only if unique
+ANS: B
+
+Q: Which protocol is used for web pages?
+A) FTP
+B) HTTP
+C) SMTP
+D) SSH
+ANS: B
+
+Q: Round robin is ___ scheduling.
+A) Non-preemptive
+B) Preemptive
+C) Batch only
+D) Priority only
+ANS: B
+
+Q: In C++ a constructor's name is:
+A) Same as the class
+B) Any name
+C) void
+D) main
+ANS: A
+
+Q: Binary of decimal 5:
+A) 101
+B) 110
+C) 011
+D) 111
+ANS: A
+
+[core]
+
+Q: Which structure is LIFO?
+A) Queue
+B) Stack
+C) Heap
+D) Array
+ANS: B
+
+Q: Deadlock needs which condition?
+A) Mutual exclusion
+B) Spooling
+C) Paging
+D) Caching
+ANS: A
+
+Q: Which layer routes packets?
+A) Data link
+B) Network
+C) Transport
+D) Session
+ANS: B
+
+Q: In-order traversal of a BST gives:
+A) Random order
+B) Sorted order
+C) Reverse order
+D) Level order
+ANS: B
+
+Q: The 'A' in ACID stands for:
+A) Atomicity
+B) Accuracy
+C) Access
+D) Availability
+ANS: A
+
+Q: Thrashing is related to:
+A) CPU
+B) Paging
+C) Disk
+D) Network
+ANS: B
+
+Q: TCP is:
+A) Connectionless
+B) Connection-oriented
+C) Broadcast only
+D) Stateless only
+ANS: B
+
+Q: Heap insertion time complexity:
+A) O(1)
+B) O(log n)
+C) O(n)
+D) O(n²)
+ANS: B
+
+Q: Which normal form removes partial dependency?
+A) 1NF
+B) 2NF
+C) 3NF
+D) BCNF
+ANS: B
+
+Q: DFA stands for:
+A) Deterministic Finite Automaton
+B) Dynamic Final Automaton
+C) Direct Finite Algorithm
+D) Data Flow Automaton
+ANS: A
+
+Q: Lexical analysis outputs:
+A) Tokens
+B) Parse tree
+C) Machine code
+D) Symbol only
+ANS: A
+
+Q: Pipelining mainly improves:
+A) Single-instruction latency
+B) Throughput
+C) Memory size
+D) Cache size
+ANS: B
+
+Q: The waterfall model is:
+A) Iterative
+B) Sequential
+C) Spiral
+D) Agile
+ANS: B
+
+Q: A page table maps:
+A) Virtual to physical addresses
+B) Files to disk
+C) IP to MAC
+D) Names to IP
+ANS: A
+
+Q: Dijkstra's algorithm fails with:
+A) Negative edge weights
+B) Positive weights
+C) Trees
+D) Directed graphs
+ANS: A
