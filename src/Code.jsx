@@ -7,7 +7,7 @@ export default function Code({s,up,sec,start,onFinish}){
  const left=useSectionTimer(sec.min,start,onFinish);
  const key=sec.id+p,c=s.code[key]||{lang:'Python',text:TPL.Python,sub:false},q=ps[p];
  const put=o=>up(x=>({code:{...x.code,[key]:{...(x.code[key]||c),...o}}}));
- return <div className="page"><Header right={<><span className="sec">{sec.title}</span><span className={'tm'+(left<60?' low':'')}>⏱ {fmt(left)}</span></>}/>
+ return <div className="page"><Header right={<><span className="sec">{sec.title}</span><span className={'tm'+(left<60?' low':'')}>{fmt(left)}</span></>}/>
  <div className="cwrap"><section className="card cp"><div className="tabs">{ps.map((x,n)=><button key={n} className={n===p?'on':''} onClick={()=>{setP(n);setOut('')}}>Q{n+1}{s.code[sec.id+n]?.sub?' ✓':''}</button>)}</div>
   <h3>{q.t}</h3><p>{q.d}</p><h4>Input</h4><p>{q.inp}</p><h4>Output</h4><p>{q.out}</p><h4>Constraints</h4><p>{q.con}</p><h4>Sample Input</h4><pre>{q.si}</pre><h4>Sample Output</h4><pre>{q.so}</pre></section>
   <section className="card ce"><div className="row sp"><select value={c.lang} aria-label="Language" onChange={e=>put({lang:e.target.value,text:TPL[e.target.value]})}>{LANGS.map(l=><option key={l}>{l}</option>)}</select>
