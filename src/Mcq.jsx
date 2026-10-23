@@ -43,7 +43,7 @@ export default function Mcq({s,up,sec,start,onFinish}){
            {i === qs.length - 1 ? (
              <button className="btn grey" onClick={() => setC(true)}>SUBMIT ANSWER</button>
            ) : (
-             <button className="btn grey" onClick={() => goQ(i + 1)}>NEXT</button>
+             <button className="btn grey" onClick={() => goQ(i + 1)}>SUBMIT ANSWER</button>
            )}
           
          </div>
